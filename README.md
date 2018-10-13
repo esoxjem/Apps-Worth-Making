@@ -11,6 +11,7 @@ Charity Miles | Get fit and turn your miles into charity. | [charitymiles.org](h
 Habba | Provide fair profits to artisans across India. | [habba.org](https://habba.org) | [Blog](https://blog.habba.org/habba-of-style-substance-satyagraha-cf51cdebf344)| Bangalore
 Simple | Save lives.| [simple.org](https://simple.org) | [Github](https://github.com/simpledotorg/) |
 Rangde | Eradicating poverty in India via microcredit for underserved communities | [rangde.org](http://rangde.org) | [Video](https://youtu.be/HOKcx2_E3Jg) | Bangalore
+Thorn | Using tech to identify/prevent child pornography and sex trafficking | [wearethorn.org](https://www.wearethorn.org) | [Video](https://www.youtube.com/watch?time_continue=58&v=Se4OvAGJu4U) | |
 
 ### For-Profit
 Name | Vision | Site | Misc | Location
