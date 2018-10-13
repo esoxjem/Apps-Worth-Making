@@ -12,6 +12,8 @@ Habba | Provide fair profits to artisans across India. | [habba.org](https://hab
 Simple | Save lives.| [simple.org](https://simple.org) | [Github](https://github.com/simpledotorg/) |
 
 ### For-Profit
+Name | Vision | Site | Misc | Location
+--- | --- | --- | --- | --- |
 Be My Eyes | Make the world more accessible to people who are blind or have a low level of vision. | [bemyeyes.com](https://bemyeyes.com) | [Video](https://www.youtube.com/watch?v=6GRfFuWsjNU) | San Francisco
 Otsimo | Democratize education for children with special needs. | [otsimo.com](https://otsimo.com) | [Video](https://www.youtube.com/watch?v=zYnHughwVOU) | Ankara
 Ketto | Crowdfunding the social sector. | [ketto.org](https://ketto.org) | | Mumbai
