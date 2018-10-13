@@ -24,5 +24,5 @@ Plantix | Using ML to detect plant diseases and solve agricultural problems. | [
 Forest | Stay focused and plant real trees on the earth. | [forestapp.cc](https://www.forestapp.cc/en/) | | Taichung City
 Visualfy | Achieve total accessibility everywhere. | [visualfy.com](http://visualfy.com) | [Video](https://www.youtube.com/watch?v=BZig0EEnJz0) | Valencia
 Fabulous | Build healthy rituals into your life, just like an elite athlete. | [fabulous.co](https://www.thefabulous.co/) | [Video](https://www.youtube.com/watch?v=kWuDy2nCbEM) | Paris, Remote
-Sesame Enable | The world’s first touch-free smartphone app. | [sesame-enable.com/](https://sesame-enable.com) | [Video](https://www.youtube.com/watch?v=EWC6iis--kY) | Rockvile, MD
+Sesame Enable | The world’s first touch-free smartphone app. | [sesame-enable.com](https://sesame-enable.com) | [Video](https://www.youtube.com/watch?v=EWC6iis--kY) | Rockvile, MD
 
