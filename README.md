@@ -1,5 +1,5 @@
 # Apps Worth Making
-A list of apps and orgs building apps and making a social impact.
+A list of orgs building apps that make a social impact.
 
 ### Non-Profit
 Name | Vision | Site | Misc | Location
