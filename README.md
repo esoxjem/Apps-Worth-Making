@@ -12,7 +12,7 @@ Habba | Provide fair profits to artisans across India. | [habba.org](https://hab
 Simple | Save lives by reducing cardiovascular diseases. | [simple.org](https://simple.org) | [Github](https://github.com/simpledotorg/) |
 Rangde | Eradicating poverty in India via microcredit for underserved communities | [rangde.org](http://rangde.org) | [Video](https://youtu.be/HOKcx2_E3Jg) | Bangalore
 Thorn | Using tech to identify/prevent child pornography and sex trafficking | [wearethorn.org](https://www.wearethorn.org) | [Video](https://youtu.be/Se4OvAGJu4U) | |
-MyChild App | Track child's growth from 1 to 24 months and identify disorders early | [mychildapp.in](https://www.mychildapp.in/) | [Video](https://www.youtube.com/watch?v=_tfd2EFz1yU) |Bhopal, India |
+
 
 ### For-Profit
 Name | Vision | Site | Misc | Location
@@ -25,6 +25,7 @@ Forest | Stay focused and plant real trees on the earth. | [forestapp.cc](https:
 Visualfy | Achieve total accessibility everywhere. | [visualfy.com](http://visualfy.com) | [Video](https://www.youtube.com/watch?v=BZig0EEnJz0) | Valencia
 Sesame Enable | The world’s first touch-free smartphone app. | [sesame-enable.com](https://sesame-enable.com) | [Video](https://www.youtube.com/watch?v=EWC6iis--kY) | Rockvile, MD
 Too Good To Go | Reduce food waste worlwide and create a world where food produced is food consumed. | [Too Good To Go](https://toogoodtogo.com/en) | | Copenhagen
+MyChild App | Track child's growth from 1 to 24 months and identify disorders early | [mychildapp.in](https://www.mychildapp.in/) | [Video](https://www.youtube.com/watch?v=_tfd2EFz1yU) |Bhopal, India |
 
 ### Other Interesting Apps
 Name | Vision | Site | Misc | Location
