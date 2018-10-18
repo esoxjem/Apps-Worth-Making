@@ -12,6 +12,7 @@ Habba | Provide fair profits to artisans across India. | [habba.org](https://hab
 Simple | Save lives by reducing cardiovascular diseases. | [simple.org](https://simple.org) | [Github](https://github.com/simpledotorg/) |
 Rangde | Eradicating poverty in India via microcredit for underserved communities | [rangde.org](http://rangde.org) | [Video](https://youtu.be/HOKcx2_E3Jg) | Bangalore
 Thorn | Using tech to identify/prevent child pornography and sex trafficking | [wearethorn.org](https://www.wearethorn.org) | [Video](https://youtu.be/Se4OvAGJu4U) | |
+MyChild App | Track child's growth from 1 to 24 months and identify disorders early | [mychildapp.in](https://www.mychildapp.in/) | [Video](https://www.youtube.com/watch?v=_tfd2EFz1yU) |Bhopal, India |
 
 ### For-Profit
 Name | Vision | Site | Misc | Location
