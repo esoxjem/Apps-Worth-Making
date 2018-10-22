@@ -1,5 +1,6 @@
 # Apps Worth Making
-A list of apps and orgs building apps and making a social impact.
+A list of apps and orgs building apps and making a social impact.<br />
+
 ![alt text](https://github.com/Hariofspades/Apps-Worth-Making/raw/master/art/art.jpg "background")
 
 ### Non-Profit
