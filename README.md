@@ -25,6 +25,8 @@ Plantix | Using ML to detect plant diseases and solve agricultural problems. | [
 Forest | Stay focused and plant real trees on the earth. | [forestapp.cc](https://www.forestapp.cc/en/) | | Taichung City
 Visualfy | Achieve total accessibility everywhere. | [visualfy.com](http://visualfy.com) | [Video](https://www.youtube.com/watch?v=BZig0EEnJz0) | Valencia
 Sesame Enable | The world’s first touch-free smartphone app. | [sesame-enable.com](https://sesame-enable.com) | [Video](https://www.youtube.com/watch?v=EWC6iis--kY) | Rockvile, MD
+Too Good To Go | Reduce food waste worlwide and create a world where food produced is food consumed. | [Too Good To Go](https://toogoodtogo.com/en) | | Copenhagen
+MyChild App | Track child's growth from 1 to 24 months and identify disorders early | [mychildapp.in](https://www.mychildapp.in/) | [Video](https://www.youtube.com/watch?v=_tfd2EFz1yU) |Bhopal, India |
 
 ### Other Interesting Apps
 Name | Vision | Site | Misc | Location
