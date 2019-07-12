@@ -4,7 +4,7 @@ A collection of apps that make a social impact.
 ### Non-Profit
 Name | Vision | Site | Misc | Location
 --- | --- | --- | --- | --- |
-ShareTheMeal | End global hunger | [sharethemeal.org](https://sharethemeal.org) | [Video](https://www.youtube.com/watch?v=I2ilsK-GUFE) | Berlin
+ShareTheMeal | Fight global hunger | [sharethemeal.org](https://sharethemeal.org) | [Video](https://www.youtube.com/watch?v=I2ilsK-GUFE) | Berlin
 Ecosia | Plant one billion trees | [ecosia.org](https://ecosia.org) | [About](https://info.ecosia.org/), [Video](https://youtu.be/vb1GCsDgLBM) | Berlin
 Khan Academy | Provide a free, world-class education to anyone, anywhere.| [khanacademy.org](https://khanacademy.org) | [Video](https://www.youtube.com/watch?v=nTFEUsudhfs) | Mountain View
 Charity Miles | Get fit and turn your miles into charity. | [charitymiles.org](https://charitymiles.com) | [Video](https://vimeo.com/42870535)| New York
