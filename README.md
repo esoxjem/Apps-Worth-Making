@@ -35,3 +35,4 @@ Blinkist | Get the key ideas from bestselling nonfiction distilled by experts in
 Goodreads | Help people find and share books they love | [goodreads.com](https://goodreads.com) | | San Francisco, Seattle
 Headspace | Learn to meditate and live mindfully. | [headspace.com](https://headspace.com) | [Video](https://www.youtube.com/watch?v=CS76mK58urI) | Santa Monica
 Fabulous | Build healthy rituals into your life, just like an elite athlete. | [fabulous.co](https://www.thefabulous.co/) | [Video](https://www.youtube.com/watch?v=kWuDy2nCbEM) | Paris, Remote
+Sumizeit | Get smarter with non-fiction book summaries that you can read in 5 minutes. | [sumizeit.com](https://sumizeit.com) |  | San Francisco
